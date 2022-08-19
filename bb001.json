@@ -1,13 +1,13 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"网页","title":"","pic":"https://panyong.asuscomm.com:444/AICLOUD417524319/wangye.jpeg"},
-{"key":"采集","title":"","pic":"https://panyong.asuscomm.com:444/AICLOUD21572424/caiji.jpeg"},
-{"key":"APP","title":"","pic":"https://panyong.asuscomm.com:444/AICLOUD113623375/souye.jpeg"},
-{"key":"直播","title":"","pic":"https://panyong.asuscomm.com:444/AICLOUD42524512/zhibo.jpeg"},
-{"key":"历史","title":"","pic":"https://panyong.asuscomm.com:444/AICLOUD16398543/lishi.jpeg"},
-{"key":"收藏","title":"","pic":"https://panyong.asuscomm.com:444/AICLOUD89308358/soucang.jpeg"},
-{"key":"推送","title":"","pic":"https://panyong.asuscomm.com:444/AICLOUD143230820/tuisong.jpeg"}
-//{"key":"轮播","title":"","pic":"https://panyong.asuscomm.com:444/AICLOUD196807906/tianjia.jpeg"}
+{"key":"网页","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/c79e394d473e40dc33b10d9ac5250036.jpeg"},
+{"key":"采集","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/dfba087b0cef32df1b8865f1c2117c3d.jpeg"},
+{"key":" APP","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/912a9ea680b72e49d30f271ee7a0cd1c.jpeg"},
+{"key":"直播","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/530e4126adeacb651aa25bd266782642.jpeg"},
+{"key":"历史","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/1736867032adaced94e40a90ff013185.jpeg"},
+{"key":"收藏","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/6d518fcefd9650a8624d88ca5ed710eb.jpeg"},
+{"key":"推送","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/6dadf1c2569e3a189788cb1635dadd5f.jpeg"}
+//{"key":"轮播","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/235f14927f1a1a0718cfc640532fd7c3.jpeg"}
 ],
 "zhuyejiekou": [
 {"name":"爱电影（基本官方）","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
