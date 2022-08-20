@@ -18,6 +18,7 @@ CCTV-13新闻,http://hls.ye23.vip/hls/cctv13hd.m3u8
 CCTV-13新闻,https://iplive-try.wasu.tv/11127.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643180055072-2-ba8136bc9a972122d1d99635d6010fcc
 CCTV-13新闻,http://39.134.66.2/PLTV/88888888/224/3221225812/index.m3u8?key=635dfdbc233a862ba75da25819f42f19
 CCTV-13新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13新闻,http://39.136.48.26:8089/PLTV/88888888/224/3221226328/index.m3u8
 CCTV-13新闻,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231636/index.m3u8
 CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13新闻,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
@@ -30,6 +31,7 @@ CCTV-1综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1综合,http://117.148.179.155/PLTV/88888888/224/3221231468/1.m3u8
 CCTV-2财经,http://58.222.75.102:9901/tsfile/live/0002_1.m3u8
 CCTV-2财经,https://iplive-try.wasu.tv/11079.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643172588992-2-106ed245797cab5bf14790c11954fb7d
+CCTV-2财经,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=124.222.137.170&timestamp=20220820074023&encrypt=c57d85b777d3cf7bd57867e651d2e6da&ContentId=265667329&timezone=UTC
 CCTV-2财经,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
 CCTV-3综艺,http://58.222.75.102:9901/tsfile/live/0003_1.m3u8
 CCTV-3综艺,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
@@ -40,7 +42,7 @@ CCTV-3综艺,http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-4中文国际,http://58.222.75.102:9901/tsfile/live/0004_1.m3u8
 CCTV-4中文国际,https://iplive-try.wasu.tv/11117.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643179315212-2-19d8a4ac88a934b97009f84502c3cac8
 CCTV-4中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-CCTV-4中文国际,http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8
+CCTV-4中文国际,http://hls.ye23.vip/hls/cctv4hd.m3u8
 CCTV-6电影,http://58.222.75.102:9901/tsfile/live/0006_1.m3u8
 CCTV-6电影,https://iplive-try.wasu.tv/11103.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643169640019-2-33940ad8c84d7cc8c58473edc0fa4616
 CCTV-6电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
@@ -163,6 +165,8 @@ NewTV超级综艺,http://111.13.42.240/PLTV/88888888/224/3221226231/1.m3u8
 NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
 NewTV超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
 北京淘剧场,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+北京淘剧场,http://219.142.149.46:9901/tsfile/live/1014_1.m3u8
+北京淘电影,http://49.7.234.98:808/hls/125/index.m3u8
 NewTV超级电视剧,http://111.13.42.240/PLTV/88888888/224/3221226253/1.m3u8
 NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
@@ -183,7 +187,7 @@ CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CO
 CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
-云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+
 
 💥无锡频道,#genre#
 无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8
