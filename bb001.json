@@ -137,7 +137,7 @@
 //填写电视直播的接口链接
 "dianshizhibo": "https://raw.staticdn.net/63694430/m/main/z001.txt",
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
-"guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com",
+"guolvdizhi": ".css#rl=#51.la#poster#api.php#file=#.ico#cnzz.com#.html#baidu.com#tootw.com#auete.com#.gif",
 
 "zidingyi": [
 {"name": "🏄乐猪影视.[自]",
