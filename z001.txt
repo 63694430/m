@@ -116,12 +116,9 @@ CCTV-5体育,http://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://39.134.65.181/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://39.134.65.173/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
-CCTV-5⁺体育赛事,http://58.222.75.102:9901/tsfile/live/0005_1.m3u8
-CCTV-5⁺体育赛事,http://111.13.42.240/PLTV/88888888/224/3221226225/1.m3u8
-CCTV-5⁺体育赛事,http://39.134.65.162/PLTV/88888888/224/3221225507/1.m3u8
+CCTV-5⁺体育赛事,http://115.182.96.25/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?p=GITV&area=AH_CMCC
 CCTV-5⁺体育赛事,http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 CCTV-5⁺体育赛事,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
-CCTV-5⁺体育赛事,http://115.182.96.25/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?p=GITV&area=AH_CMCC
 CCTV-5⁺体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
 CCTV-5⁺体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 CCTV-5⁺体育赛事,http://125.210.152.19:9090/live/hzgq-cctvzhgq-h264.m3u8
@@ -139,10 +136,9 @@ CCTV-5⁺体育赛事,http://39.134.65.175/PLTV/88888888/224/3221225507/index.m3
 CCTV-5⁺体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/1.m3u8
 CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8?sign=1652501519-74c12e488b03fc82b06956a2aeb3162a?key=635dfdbc233a862ba75da25819f42f19
 CCTV-16奥林匹克,http://111.13.42.240/PLTV/88888888/224/3221226892/1.m3u8
-五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,http://cache.ott.fifalive.itv.cmvideo.cn:80/5000000010000017540/1.m3u8?Contentid=5000000010000017540&livemode=1&stbId=3&channel-id=bestzb
 五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,http://111.11.123.49:6610/000000001000/5000000010000017540/1.m3u8?Contentid=5000000010000017540&livemode=1&stbId=3&channel-id=bestzb
 五星体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 江苏体育,http://58.222.75.102:9901/tsfile/live/1009_1.m3u8
