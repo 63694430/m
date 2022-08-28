@@ -22,7 +22,6 @@ CCTV-13新闻,http://39.136.48.26:8089/PLTV/88888888/224/3221226328/index.m3u8
 CCTV-13新闻,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231636/index.m3u8
 CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13新闻,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
-
 CCTV-1综合,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1综合,http://111.13.42.240/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-1综合,https://iplive-try.wasu.tv/11078.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643171858140-2-0050646e5c7933bdc45871c5d629d453
@@ -30,7 +29,6 @@ CCTV-1综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV-1综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1综合,http://117.148.179.155/PLTV/88888888/224/3221231468/1.m3u8
 CCTV-1综合,http://58.222.75.102:9901/tsfile/live/0001_1.m3u8
-
 CCTV-2财经,http://39.136.41.2:6610/000000001000/8878432746825677699/1.m3u8?Contentid=8878432746825677699&livemode=1&stbId=3&channel-id=wasusyt
 CCTV-2财经,http://39.136.48.28:8089/PLTV/88888888/224/3221225751/index.m3u8
 CCTV-2财经,https://iplive-try.wasu.tv/11079.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643172588992-2-106ed245797cab5bf14790c11954fb7d
