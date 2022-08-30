@@ -1,9 +1,9 @@
 {
-"spider":"https://panyong.asuscomm.com:444/AICLOUD1974592690/0826.jar;md5;722596334701127B12E81196C9C4B35F",
+"spider":"https://panyong.asuscomm.com:444/AICLOUD1675834279/0826.jar;md5;722596334701127B12E81196C9C4B35F",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key": "Lezhu_spider","name": "💥主页-乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
-{"key":"csp_77","name":"💥主页-77视频(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"💥主页-77视频(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://panyong.asuscomm.com:444/AICLOUD2091507295/Tangsan999.jar"},
 {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "LiteApple","name": "💥小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "神马影院","name": "💥神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
