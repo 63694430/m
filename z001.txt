@@ -288,8 +288,11 @@ CCTV-1综合,http://111.13.42.240/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-1综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV-1综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1综合,http://58.222.75.102:9901/tsfile/live/0001_1.m3u8
-CCTV-2财经,http://39.136.41.2:6610/000000001000/1000000001000023315/1.m3u8?Contentid=1000000001000023315&livemode=1&stbId=3&channel-id=ystenlive
-CCTV-2财经,http://39.136.41.2:6610/000000001000/8878432746825677699/1.m3u8?Contentid=8878432746825677699&livemode=1&stbId=3&channel-id=wasusyt
+CCTV-2财经,http://hls.ye23.vip/hls/cctv2hd.m3u8
+CCTV-2财经,http://wtv.weetai.cn/iptv/2022/tyzb01.php?id=cctv2hd
+CCTV-2财经,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-2财经,http://111.20.35.103:6610/yinhe/2/ch00000090990000001021/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+CCTV-2财经,http://111.20.35.103:6610/yinhe/2/ch00000090990000001840/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-2财经,http://39.136.48.28:8089/PLTV/88888888/224/3221225751/index.m3u8
 CCTV-3 综艺,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
