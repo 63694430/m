@@ -5,9 +5,9 @@
 {"key":"APP","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/912a9ea680b72e49d30f271ee7a0cd1c.jpeg"},
 {"key":"直播","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/530e4126adeacb651aa25bd266782642.jpeg"},
 {"key":"历史","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/1736867032adaced94e40a90ff013185.jpeg"},
-//{"key":"收藏","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/6d518fcefd9650a8624d88ca5ed710eb.jpeg"},
-//{"key":"推送","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/6dadf1c2569e3a189788cb1635dadd5f.jpeg"}
-//{"key":"轮播","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/235f14927f1a1a0718cfc640532fd7c3.jpeg"}
+{"key":"收藏","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/6d518fcefd9650a8624d88ca5ed710eb.jpeg"},
+{"key":"推送","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/6dadf1c2569e3a189788cb1635dadd5f.jpeg"}
+{"key":"轮播","title":"","pic":"https://pic.rmb.bdstatic.com/bjh/235f14927f1a1a0718cfc640532fd7c3.jpeg"}
 ],
 "zhuyejiekou": [
 {"name":"爱电影（基本官方）","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
